@@ -20,6 +20,7 @@ Labeled MRI Brain Tumor Dataset.v1-version-1.multiclass/
 dataset/
 data/
 *.zip
+!Dataset.zip
 
 # Streamlit secrets
 .streamlit/secrets.toml
