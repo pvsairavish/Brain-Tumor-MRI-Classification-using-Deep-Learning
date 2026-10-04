@@ -12,7 +12,7 @@
 
 **Try the live application here:**
 
-👉 [[https://emipredict-ai-v3fzk4nptkzeovgkngp9kg.streamlit.app/](https://emipredict-ai-4usmwappd7yvakbjs3rwssi.streamlit.app/)]
+👉 [[https://brain-tumor-mri-classification-using-deep-learning-cvcfyxczo5m.streamlit.app/](https://brain-tumor-mri-classification-using-deep-learning-cvcfyxczo5m.streamlit.app/)]
 
 ---
 
