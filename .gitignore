@@ -1,0 +1,32 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset - do not upload
+Labeled MRI Brain Tumor Dataset.v1-version-1.multiclass/
+
+# Other possible datasets
+dataset/
+data/
+*.zip
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
