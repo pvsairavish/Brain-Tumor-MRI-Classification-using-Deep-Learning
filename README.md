@@ -410,13 +410,8 @@ NeuroScan-AI/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NeuroScan-AI.git
-cd NeuroScan-AI
-```
+git clone [https://github.com/YOUR_USERNAME/NeuroScan-AI.git](https://github.com/pvsairavish/Brain-Tumor-MRI-Classification-using-Deep-Learning/blob/main)
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
----
 
 ## 2. Create a virtual environment
 
