@@ -396,11 +396,9 @@ NeuroScan-AI/
 ├── notebooks/
 │   └── Brain_Tumor_MRI_Model_Corrected.ipynb
 │
-├── reports/
-│   └── Model_Comparison_Report.md
-│
-└── dataset/
-    └── README.md
+└── dataset.zip/
+|   └── Labeled MRI Brain Tumor Dataset.v1-version-1.multiclass
+├── Readme.md
 ```
 
 > The complete raw MRI dataset is not required to be committed to GitHub. Large datasets and model artifacts can be distributed separately when repository-size or hosting limits apply.
